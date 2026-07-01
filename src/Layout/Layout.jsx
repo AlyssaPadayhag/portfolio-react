@@ -51,7 +51,7 @@ export default function BasicTabs() {
 <span class="center">
 	<a href="https://www.linkedin.com/in/alyssa-padayhag/" target="_blank" class="svg_icons mr-8 mb-5"><LinkedInIcon /></a>
     <a href="https://github.com/AlyssaPadayhag" target="_blank" class="svg_icons mr-12 mb-5"><GitHubIcon /></a>
-    <a href="https://www.linkedin.com/in/alyssa-padayhag/" target="_blank" class="svg_icons mr-8 mb-5"><LaunchIcon />Resume </a>
+    <a href="https://zledvflm4nm7pn4v.public.blob.vercel-storage.com/ap-resume.pdf" target="_blank" class="svg_icons mr-8 mb-5"><LaunchIcon />Resume </a>
 
 </span>
         <Box sx={{ width: '100%' }} class="text-4xl roboto-regular text-shadow-lg">
